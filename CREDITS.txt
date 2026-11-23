@@ -1,0 +1,16 @@
+Xenoblade Chronicles 2 Arabic - credits
+=======================================
+
+Translation and tools: Kindiboy (enmaworld.com)
+
+Game: Xenoblade Chronicles 2 (c) Nintendo / MONOLITH SOFT. Unofficial translation; requires your own copy.
+
+Runs on: XC2 NS2 Recomp by weile10000 - https://github.com/weile10000/xc2-ns2-recomp (GPL-3.0; not included here).
+
+Fonts:
+- SST Arabic © Monotype GmbH, used under licence. Its glyphs are drawn into the game's own font files; the font
+  software is not distributed separately and may only be used to play the game with this translation installed.
+- Alyamama (installer interface) - Copyright 2025 The Alyamama Project Authors
+  (https://github.com/Mestaratype/AlYamama), SIL Open Font License 1.1, see Alyamama-OFL.txt.
+
+Key art used on the project pages: (c) Nintendo / MONOLITH SOFT.
